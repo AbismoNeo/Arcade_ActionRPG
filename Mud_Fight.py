@@ -3,6 +3,7 @@ This is a sample text-only game that demonstrates the use of functions.
 The game is called "Mudball" and the players take turns lobbing mudballs
 at each other until someone gets hit.
 """
+#BASE DEL GORILLA
 
 import math
 import random
